@@ -4,7 +4,7 @@ This folder contains various data analysis scripts that I have used for MT sever
 
 These include various python analysis/plotting, bash, tcl and R (Bio3D). 
 
-The results we published in the Article: "Factors underlying asymmetric pore dynamics of disaggregase and microtubule-severing AAA+ machines"
+These scripts were used to analyze and plot the results which were used/published in the Article: "Factors underlying asymmetric pore dynamics of disaggregase and microtubule-severing AAA+ machines"
 
 Published:June 25, 2021
 
